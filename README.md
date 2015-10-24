@@ -41,6 +41,7 @@ After this you must install modules:
 
 ##How run
 1 - Open two tabs on terminal
+
 2 - In first tab go to theme folder and execute
 
     grunt
