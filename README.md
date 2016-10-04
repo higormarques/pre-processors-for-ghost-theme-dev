@@ -1,7 +1,7 @@
 # pre-pocessors-for-ghost-theme-dev
 A Gruntfile and package.json file with pre-processors for Ghost themes developers. Pre-processors contained: Sass, cmq, postcss, cssmin, imagemin.
 
-##How install
+##How to install
 Paste the gruntfile and packge.json files into theme folder:
 
     MyTheme
@@ -39,7 +39,7 @@ After this you must install modules:
 
     npm install
 
-##How run
+##How to run
 1 - Open two tabs on terminal
 
 2 - In first tab go to theme folder and execute
